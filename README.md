@@ -8,3 +8,5 @@ At the end,you will get scores and stars according to your moves and take fewer 
 
 load **index.html** in your appropriate browser and enjoy the game!!!
 
+Page demo at https://dstrivedi.github.io/memory-game/
+
